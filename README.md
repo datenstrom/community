@@ -10,7 +10,7 @@ Write the question in the title, it's the first thing everyone will see. Our com
 
 ## How to report bugs
 
-Explain how to reproduce the bug, with as many information as you have. Check your log file, it gives a quick overview of what happens on your website. Activate the debug mode to collect additional information and to investigate the cause of the problem. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Explain how to reproduce the bug, with as many information as you have. Check your log file, it gives a quick overview of what happens on your website. Activate the debug mode to investigate the cause of a problem. Select an answer, when the bug has been fixed. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## How to work with us
 
