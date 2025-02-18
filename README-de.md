@@ -10,7 +10,7 @@ Schreibe die Frage in den Titel, es ist das Erste was alle sehen. Unsere Netzgem
 
 ## Wie man einen Fehler meldet
 
-Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du hast. Überprüfen die Logdatei, sie gibt dir einen schnellen Überblick was auf deiner Website passiert. Aktivieren den Debug-Modus um die Ursache eines Problems zu untersuchen. Wähle eine Antwort aus, wenn der Fehler behoben wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du hast. Überprüfe die Logdatei, sie gibt dir einen schnellen Überblick was auf deiner Website passiert. Aktiviere den Debug-Modus um die Ursache eines Problems zu untersuchen. Wähle eine Antwort aus, wenn der Fehler behoben wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## Wie man mit uns arbeitet
 
