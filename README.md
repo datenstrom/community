@@ -18,4 +18,4 @@ Focus on people, not on technical details and lots of features. There are many w
 
 ## Acknowledgements
 
-Made in Europe with many contributors. Thank you for the good work.
+Made in Europe. Thank you to all members and contributors.
