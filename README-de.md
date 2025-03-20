@@ -18,4 +18,4 @@ Konzentriere dich auf Menschen, nicht auf technische Details und viele Funktione
 
 ## Danksagung
 
-Hergestellt in Europa. Danke an alle Mitglieder und Mitwirkende.
+Hergestellt in Europa. Danke an alle Mitglieder der Datenstrom Netzgemeinschaft.
