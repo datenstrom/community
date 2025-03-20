@@ -18,4 +18,4 @@ Focus on people, not on technical details and lots of features. There are many w
 
 ## Acknowledgements
 
-Made in Europe. Thank you to all members and contributors.
+Made in Europe. Thank you to all members of the Datenstrom community.
