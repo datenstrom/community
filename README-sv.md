@@ -18,4 +18,4 @@ Fokusera på människor, inte på tekniska detaljer och massor av funktioner. De
 
 ## Tack
 
-Tillverkad i Europa. Tack till alla medlemmar och bidragsgivare.
+Tillverkad i Europa. Tack till alla medlemmar i Datenstrom nätgemenskapen.
