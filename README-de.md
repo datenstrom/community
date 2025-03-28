@@ -14,7 +14,7 @@ Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du has
 
 ## Wie man mit uns arbeitet
 
-Konzentriere dich auf Menschen, nicht auf technische Details und viele Funktionen. Es gibt viele Möglichkeiten in unserer Netzgemeinschaft aktiv zu werden. Denke darüber nach was du machen möchtest und was dein Leben einfacher machen würde. Teste neue Erweiterungen und gebe Feedback. [Tipps zum Zusammenarbeiten](https://github.com/datenstrom/community/discussions/760) und [API für Entwickler](https://datenstrom.se/de/yellow/help/api-for-developers).
+Konzentriere dich auf Menschen, nicht auf technische Details und viele Funktionen. Es gibt viele Möglichkeiten in unserer Netzgemeinschaft aktiv zu werden. Denke darüber nach was du machen möchtest und was dein Leben einfacher machen würde. Teste Erweiterungen und gebe Feedback. [Tipps zum Zusammenarbeiten](https://github.com/datenstrom/community/discussions/760) und [API für Entwickler](https://datenstrom.se/de/yellow/help/api-for-developers).
 
 ## Danksagung
 
