@@ -14,7 +14,7 @@ Förklara hur man återskapar felet, med så mycket information som du har. Kont
 
 ## Hur man jobbar med oss
 
-Fokusera på människor, inte på tekniska detaljer och massor av funktioner. Det finns många sätt att bli aktiv i vår nätgemenskap. Fundera på vad du vill göra och vad som skulle göra ditt liv lättare. Först få det att fungera, sedan gör det bättre. [Tips för samarbete](https://github.com/datenstrom/community/discussions/760) och [API för utvecklare](https://datenstrom.se/sv/yellow/help/api-for-developers).
+Vi fokuserar på människor. Inte på tekniska detaljer och massor av funktioner. Det finns många sätt att bli aktiv i vår nätgemenskap. Fundera på vad du vill göra och vad som skulle göra ditt liv lättare. Först få det att fungera, sedan gör det bättre. [Tips för samarbete](https://github.com/datenstrom/community/discussions/760) och [obesvarade diskussioner](https://github.com/datenstrom/community/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created)..
 
 ## Tack
 
