@@ -14,7 +14,7 @@ Explain how to reproduce the bug, with as many information as you have. Check yo
 
 ## How to work with us
 
-We focus on people. Not on technical details and lots of features. There are many ways to become active in our community. Think about what you want to do and what would make your life easier. First make it work, then make it better. [See tips for working together](https://github.com/datenstrom/community/discussions/760) and [unanswered discussions](https://github.com/datenstrom/community/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created).
+We focus on people. Not on technical details and lots of features. There are many ways to become active in our community. Think about what you want to do and what would make life easier. First make it work, then make it better. [See tips for working together](https://github.com/datenstrom/community/discussions/760) and [unanswered discussions](https://github.com/datenstrom/community/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created).
 
 ## Acknowledgements
 
