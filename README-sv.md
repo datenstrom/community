@@ -2,7 +2,7 @@
 
 # Datenstrom nätgemenskap
 
-Ställ frågor, rapportera fel och jobba med oss. [Läs riktlinjerna](https://datenstrom.se/sv/yellow/help/contributing-guidelines).
+Ställ frågor, rapportera fel och jobba med oss.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Skärmdump"></p>
 
@@ -18,6 +18,6 @@ Förklara hur man återskapar felet, med så mycket information som du har. Kont
 
 Vi fokuserar på människor. Inte på tekniska detaljer och massor av funktioner. Det finns många sätt att bli aktiv i vår nätgemenskap. Fundera på vad du vill göra och vad som skulle göra livet lättare. Först få det att fungera, sedan gör det bättre. [Se tips för samarbete](https://github.com/datenstrom/community/discussions/760) och [obesvarade diskussioner](https://github.com/datenstrom/community/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created).
 
-## Tack
+## Underhållare
 
-Tillverkad i Europa. Tack till alla medlemmar i Datenstrom nätgemenskapen.
+Anna Svensson, Steffen Schultz. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
