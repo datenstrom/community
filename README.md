@@ -4,6 +4,8 @@
 
 Ask questions, report bugs and work with us. [Read the guidelines](https://datenstrom.se/yellow/help/contributing-guidelines).
 
+<p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
+
 ## How to ask questions
 
 Write the question in the title, it's the first thing everyone will see. Our community is a place to help each other. Where you can ask and answer questions. Most answers are provided by members, just like you. Use an online translator if English is not your first language. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
