@@ -4,6 +4,8 @@
 
 Ställ frågor, rapportera fel och jobba med oss. [Läs riktlinjerna](https://datenstrom.se/sv/yellow/help/contributing-guidelines).
 
+<p align="center"><img src="SCREENSHOT.png" alt="Skärmdump"></p>
+
 ## Hur man ställer en fråga
 
 Skriv frågan i rubriken, det är det första alla kommer att se. Vår nätgemenskap är en plats att hjälpa varandra. Där du kan ställa och svara på frågor. De flesta av svaren tillhandahålls av medlemmar, precis som du. Använd en onlineöversättare om engelska inte är ditt modersmål. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
