@@ -2,7 +2,7 @@
 
 # Datenstrom Netzgemeinschaft
 
-Stelle Fragen, melde Fehler und arbeite mit uns. [Richtlinien lesen](https://datenstrom.se/de/yellow/help/contributing-guidelines).
+Stelle Fragen, melde Fehler und arbeite mit uns.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Bildschirmfoto"></p>
 
@@ -18,6 +18,6 @@ Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du has
 
 Wir konzentrieren uns auf Menschen. Nicht auf technische Details und viele Funktionen. Es gibt viele Möglichkeiten in unserer Netzgemeinschaft aktiv zu werden. Denke darüber nach was du machen möchtest und was das Leben einfacher machen würde. Erst funktionieren lassen, dann besser machen. [Siehe Tipps zum Zusammenarbeiten](https://github.com/datenstrom/community/discussions/760) und [unbeantwortete Diskussionen](https://github.com/datenstrom/community/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created).
 
-## Danksagung
+## Betreuer
 
-Hergestellt in Europa. Danke an alle Mitglieder der Datenstrom Netzgemeinschaft.
+Anna Svensson, Steffen Schultz. [Hilfe finden](https://datenstrom.se/de/yellow/help/).
