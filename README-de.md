@@ -4,6 +4,8 @@
 
 Stelle Fragen, melde Fehler und arbeite mit uns. [Richtlinien lesen](https://datenstrom.se/de/yellow/help/contributing-guidelines).
 
+<p align="center"><img src="SCREENSHOT.png" alt="Bildschirmfoto"></p>
+
 ## Wie man eine Frage stellt
 
 Schreibe die Frage in den Titel, es ist das Erste was alle sehen. Unsere Netzgemeinschaft ist ein Ort um sich gegenseitig zu helfen. Wo man Fragen stellen und beantworten kann. Die meisten Antworten werden von Mitgliedern, so wie du, bereitgestellt. Verwende einen Online-Übersetzer, falls Englisch nicht deine Muttersprache ist. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
