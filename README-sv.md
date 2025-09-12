@@ -18,6 +18,6 @@ Förklara hur man återskapar felet, med så mycket information som du har. Kont
 
 Vi fokuserar på människor. Inte på tekniska detaljer och massor av funktioner. Det finns många sätt att bli aktiv i vår nätgemenskap. Fundera på vad du vill göra och vad som skulle göra livet lättare. Först få det att fungera, sedan gör det bättre. [Se tips för samarbete](https://github.com/datenstrom/community/discussions/760) och [obesvarade diskussioner](https://github.com/datenstrom/community/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created).
 
-## Underhållare
+## Tack
 
-Anna Svensson, Steffen Schultz. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Tillverkad i Europa. Tack till användare, utvecklare, formgivare och översättare.
