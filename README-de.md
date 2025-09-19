@@ -1,6 +1,6 @@
 <p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
 
-# Datenstrom Netzgemeinschaft
+# Datenstrom-Netzgemeinschaft
 
 Stelle Fragen, melde Fehler und arbeite mit uns.
 
@@ -8,7 +8,7 @@ Stelle Fragen, melde Fehler und arbeite mit uns.
 
 ## Wie man eine Frage stellt
 
-Schreibe die Frage in den Titel, es ist das Erste was alle sehen. Unsere Netzgemeinschaft ist ein Ort um sich gegenseitig zu helfen. Wo man Fragen stellen und beantworten kann. Die meisten Antworten werden von Mitgliedern, so wie du, bereitgestellt. Verwende einen Online-Übersetzer, falls Englisch nicht deine Muttersprache ist. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
+Schreibe die Frage in den Titel, es ist das Erste was alle sehen. Die Datenstrom-Netzgemeinschaft ist ein Ort um sich gegenseitig zu helfen. Wo man Fragen stellen und beantworten kann. Die meisten Antworten werden von Mitgliedern, so wie du, bereitgestellt. Verwende einen Online-Übersetzer, falls Englisch nicht deine Muttersprache ist. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
 
 ## Wie man einen Fehler meldet
 
