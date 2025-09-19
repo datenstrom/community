@@ -8,7 +8,7 @@ Ask questions, report bugs and work with us.
 
 ## How to ask questions
 
-Write the question in the title, it's the first thing everyone will see. Our community is a place to help each other. Where you can ask and answer questions. Most answers are provided by members, just like you. Use an online translator if English is not your first language. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
+Write the question in the title, it's the first thing everyone will see. The Datenstrom community is a place to help each other. Where you can ask and answer questions. Most answers are provided by members, just like you. Use an online translator if English is not your first language. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
 
 ## How to report bugs
 
