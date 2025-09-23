@@ -12,7 +12,7 @@ Schreibe die Frage in den Titel, es ist das Erste was alle sehen. Die Datenstrom
 
 ## Wie man einen Fehler meldet
 
-Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du hast. Aktiviere den Debug-Modus um die Ursache eines Problems zu untersuchen. Füge deine Logdatei dem Fehlerbericht hinzu, sie gibt einen Überblick darüber was auf deiner Website passiert. Wähle eine Antwort aus, wenn der Fehler behoben wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du hast. Aktiviere den Debug-Modus um die Ursache eines Problems zu untersuchen. Füge die Logdatei dem Fehlerbericht hinzu, sie gibt einen Überblick darüber was auf deiner Website passiert. Wähle eine Antwort aus, wenn der Fehler behoben wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## Wie man mit uns arbeitet
 
