@@ -2,7 +2,7 @@
 
 # Datenstrom community
 
-Ask questions, report bugs and work with us.
+Ask questions, report bugs and work with us. [View all discussions](https://github.com/datenstrom/community/discussions).
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
