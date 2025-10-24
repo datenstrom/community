@@ -2,7 +2,7 @@
 
 # Datenstrom nätgemenskap
 
-Ställ frågor, rapportera fel och jobba med oss.
+Ställ frågor, rapportera fel och jobba med oss. [Visa alla diskussioner](https://github.com/datenstrom/community/discussions).
 
 <p align="center"><img src="SCREENSHOT.png" alt="Skärmdump"></p>
 
