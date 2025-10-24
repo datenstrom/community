@@ -2,7 +2,7 @@
 
 # Datenstrom-Netzgemeinschaft
 
-Stelle Fragen, melde Fehler und arbeite mit uns.
+Stelle Fragen, melde Fehler und arbeite mit uns. [Alle Diskussionen anzeigen](https://github.com/datenstrom/community/discussions).
 
 <p align="center"><img src="SCREENSHOT.png" alt="Bildschirmfoto"></p>
 
