@@ -8,7 +8,7 @@ Ask questions, report bugs and work with us. [View all discussions](https://gith
 
 ## How to ask questions
 
-Write the question in the title, it's the first thing everyone will see. The Datenstrom community is a place to help each other. Where you can ask and answer questions. Most answers are provided by members, just like you. Use a translator if English is not your first language. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
+Write the question in the title, it's the first thing everyone will see. The Datenstrom community is a place to help each other. Where you can ask and answer questions. Most answers are provided by members, just like you. Use a translator if English is not your first language. Describe the problem you are trying to solve. Explain what you have tried so far. Select an answer, when your question has been answered. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
 
 ## How to report bugs
 
