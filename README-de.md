@@ -8,11 +8,11 @@ Stelle Fragen, melde Fehler und arbeite mit uns. [Alle Diskussionen anzeigen](ht
 
 ## Wie man eine Frage stellt
 
-Schreibe die Frage in den Titel, es ist das Erste was alle sehen. Die Datenstrom-Netzgemeinschaft ist ein Ort um sich gegenseitig zu helfen. Wo man Fragen stellen und beantworten kann. Die meisten Antworten werden von Mitgliedern, so wie du, bereitgestellt. Verwende einen Übersetzer, falls Englisch nicht deine Muttersprache ist. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
+Schreibe die Frage in den Titel, es ist das Erste was alle sehen. Die Datenstrom-Netzgemeinschaft ist ein Ort um sich gegenseitig zu helfen. Wo man Fragen stellen und beantworten kann. Die meisten Antworten werden von Mitgliedern, so wie du, bereitgestellt. Verwende einen Übersetzer, falls Englisch nicht deine Muttersprache ist. Beschreibe das Probleme das du lösen möchtest. Erkläre was du bisher versucht hast. Wähle eine Antwort aus, wenn deine Frage beantwortet wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
 
 ## Wie man einen Fehler meldet
 
-Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du hast. Aktiviere den Debug-Modus um die Ursache eines Problems zu untersuchen. Füge die Logdatei dem Fehlerbericht hinzu, sie gibt einen Überblick darüber was auf deiner Website passiert. Wähle eine Antwort aus, wenn der Fehler behoben wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du hast. Aktiviere den Debug-Modus um die Ursache eines Problems zu untersuchen. Füge Fehlermeldungen und die Logdatei hinzu, um zu zeigen was was auf deiner Website passiert. Wähle eine Antwort aus, wenn der Fehler behoben wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## Wie man mit uns arbeitet
 
