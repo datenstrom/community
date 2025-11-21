@@ -8,11 +8,11 @@ Ställ frågor, rapportera fel och jobba med oss. [Visa alla diskussioner](https
 
 ## Hur man ställer en fråga
 
-Skriv frågan i rubriken, det är det första alla kommer att se. Datenstroms nätgemenskapen är en plats att hjälpa varandra. Där du kan ställa och svara på frågor. De flesta av svaren tillhandahålls av medlemmar, precis som du. Använd en översättare om engelska inte är ditt modersmål. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
+Skriv frågan i rubriken, det är det första alla kommer att se. Datenstroms nätgemenskapen är en plats att hjälpa varandra. Där du kan ställa och svara på frågor. De flesta av svaren tillhandahålls av medlemmar, precis som du. Använd en översättare om engelska inte är ditt modersmål. Beskriv problemet du försöker lösa. Förklara vad du har försökt hittills. Välj ett svar när din fråga har besvarats. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/ask-a-question).
 
 ## Hur man rapporterar ett fel
 
-Förklara hur man återskapar felet, med så mycket information som du har. Aktivera felsökningsläge för att undersöka orsaken till ett problem. Lägg till loggfilen i felrapporten, den ger en översikt över vad som händer på din webbplats. Välj ett svar när felet har åtgärdats. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Förklara hur man återskapar felet, med så mycket information som du har. Aktivera felsökningsläge för att undersöka orsaken till ett problem. Lägg till felmeddelanden och loggfilen för att visa vad som händer på din webbplats. Välj ett svar när felet har åtgärdats. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## Hur man jobbar med oss
 
