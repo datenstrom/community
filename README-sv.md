@@ -12,7 +12,7 @@ Skriv frågan i rubriken, det är det första alla kommer att se. Datenstroms n�
 
 ## Hur man rapporterar ett fel
 
-Förklara hur man återskapar felet, med så mycket information som du har. Aktivera felsökningsläge för att undersöka orsaken till ett problem. Lägg till felmeddelanden och loggfilen för att visa vad som händer på din webbplats. Välj ett svar när felet har åtgärdats. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Förklara hur man återskapar felet, med så mycket information som du har. Aktivera felsökningsläge för att undersöka orsaken till ett problem. Lägg till loggfilen för att visa vad som händer på din webbplats. Välj ett svar när felet har åtgärdats. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## Hur man jobbar med oss
 
