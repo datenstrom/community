@@ -20,4 +20,4 @@ We focus on people. Not on technical details and lots of features. There are man
 
 ## Acknowledgements
 
-Made in Europe. Thank you to all users, developers, designers and translators.
+Made in Europe. Thank you to all developers, designers and translators.
