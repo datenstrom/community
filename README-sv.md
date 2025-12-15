@@ -20,4 +20,4 @@ Vi fokuserar på människor. Inte på tekniska detaljer och massor av funktioner
 
 ## Tack
 
-Tillverkad i Europa. Tack till alla användare, utvecklare, formgivare och översättare.
+Tillverkad i Europa. Tack till alla utvecklare, formgivare och översättare.
