@@ -1,10 +1,18 @@
-<p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
+<div align="right">
+
+[Deutsch](./README-de.md) &nbsp; [English](./README.md) &nbsp; [Svenska](./README-sv.md)
+
+</div>
 
 # Datenstrom-Netzgemeinschaft
 
 Stelle Fragen, melde Fehler und arbeite mit uns. [Alle Diskussionen anzeigen](https://github.com/datenstrom/community/discussions).
 
-<p align="center"><img src="SCREENSHOT.png" alt="Bildschirmfoto"></p>
+<div align="center">
+
+[![Bildschirmfoto](./SCREENSHOT.png)](./SCREENSHOT.png)
+
+</div>
 
 ## Wie man eine Frage stellt
 

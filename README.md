@@ -1,10 +1,18 @@
-<p align="right"><a href="README-de.md">Deutsch</a> &nbsp; <a href="README.md">English</a> &nbsp; <a href="README-sv.md">Svenska</a></p>
+<div align="right">
+
+[Deutsch](./README-de.md) &nbsp; [English](./README.md) &nbsp; [Svenska](./README-sv.md)
+
+</div>
 
 # Datenstrom community
 
 Ask questions, report bugs and work with us. [View all discussions](https://github.com/datenstrom/community/discussions).
 
-<p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
+<div align="center">
+
+[![Screenshot](./SCREENSHOT.png)](./SCREENSHOT.png)
+
+</div>
 
 ## How to ask a question
 
