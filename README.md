@@ -16,7 +16,7 @@ Explain how to reproduce the bug and provide detailed information. Activate the 
 
 ## How to work with us
 
-Discuss with our community about the latest product changes and new extensions. We focus on people. Not on technical details and lots of features. There are many ways to become active in the Datenstrom community. Imagine what the user wants to do and what would make their life easier. [See tips for working together](https://github.com/datenstrom/community/discussions/760).
+Discuss the latest product changes and new extensions. We focus on people. Not on technical details and lots of features. There are many ways to become active in the Datenstrom community. Imagine what the user wants to do and what would make their life easier. [See tips for working together](https://github.com/datenstrom/community/discussions/760).
 
 ## Acknowledgements
 
