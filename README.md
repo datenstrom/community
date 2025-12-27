@@ -12,7 +12,7 @@ Write the question in the title, it's the first thing everyone will see. The Dat
 
 ## How to report a bug
 
-Explain how to reproduce the bug and provide detailed information. Activate the debug mode to investigate the cause of a problem. Add the log file to show what happens on your website. Check if the bug occurs in a brand new installation. Select an answer, when the bug has been fixed. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Explain how to reproduce the bug and provide detailed information. Activate the debug mode to investigate the cause of a problem. Add the log file to show what happens on your website. Check if the bug occurs in a new installation. Select an answer, when the bug has been fixed. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## How to work with us
 
