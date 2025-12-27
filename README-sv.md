@@ -12,11 +12,11 @@ Skriv frågan i rubriken, det är det första alla kommer att se. Datenstroms n�
 
 ## Hur man rapporterar ett fel
 
-Förklara hur man återskapar felet, med så mycket information som du har. Aktivera felsökningsläge för att undersöka orsaken till ett problem. Lägg till loggfilen för att visa vad som händer på din webbplats. Välj ett svar när felet har åtgärdats. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Förklara hur man återskapar felet och ge detaljerad information. Aktivera felsökningsläge för att undersöka orsaken till ett problem. Lägg till loggfilen för att visa vad som händer på din webbplats. Kontrollera om felet uppstår i en ny installation. Välj ett svar när felet har åtgärdats. [Starta en ny diskussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## Hur man jobbar med oss
 
-Vi fokuserar på människor. Inte på tekniska detaljer och massor av funktioner. Det finns många sätt att bli aktiv i Datenstroms nätgemenskap. Föreställ dig vad användaren vill göra och vad som skulle göra deras liv enklare. [Se tips för samarbete](https://github.com/datenstrom/community/discussions/760) och [obesvarade diskussioner](https://github.com/datenstrom/community/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created).
+Diskutera senaste produktändringarna och nya tilläggen. Vi fokuserar på människor. Inte på tekniska detaljer och massor av funktioner. Det finns många sätt att bli aktiv i Datenstroms nätgemenskap. Föreställ dig vad användaren vill göra och vad som skulle göra deras liv enklare. [Se tips för samarbete](https://github.com/datenstrom/community/discussions/760).
 
 ## Tack
 
