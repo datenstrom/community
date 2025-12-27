@@ -12,11 +12,11 @@ Schreibe die Frage in den Titel, es ist das Erste was alle sehen. Die Datenstrom
 
 ## Wie man einen Fehler meldet
 
-Erkläre wie man den Fehler reproduziert, mit so vielen Informationen wie du hast. Aktiviere den Debug-Modus um die Ursache eines Problems zu untersuchen. Füge die Logdatei hinzu um zu zeigen was auf deiner Webseite passiert. Wähle eine Antwort aus, wenn der Fehler behoben wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Erkläre wie man den Fehler reproduziert und gebe detaillierte Informationen an. Aktiviere den Debug-Modus um die Ursache eines Problems zu untersuchen. Füge die Logdatei hinzu um zu zeigen was auf deiner Webseite passiert. Überprüfe ob der Fehler bei einer Neuinstallation auftritt. Wähle eine Antwort aus, wenn der Fehler behoben wurde. [Neue Diskussion beginnen](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## Wie man mit uns arbeitet
 
-Wir konzentrieren uns auf Menschen. Nicht auf technische Details und viele Funktionen. Es gibt viele Möglichkeiten in der Datenstrom-Netzgemeinschaft aktiv zu werden. Stell dir vor was der Benutzer machen möchte und was dessen Leben einfacher machen würde. [Siehe Tipps zum Zusammenarbeiten](https://github.com/datenstrom/community/discussions/760) und [unbeantwortete Diskussionen](https://github.com/datenstrom/community/discussions?discussions_q=is%3Aunanswered+sort%3Adate_created).
+Bespreche die neuesten Produktänderungen und neuen Erweiterungen. Wir konzentrieren uns auf Menschen. Nicht auf technische Details und viele Funktionen. Es gibt viele Möglichkeiten in der Datenstrom-Netzgemeinschaft aktiv zu werden. Stell dir vor was der Benutzer machen möchte und was dessen Leben einfacher machen würde. [Siehe Tipps zum Zusammenarbeiten](https://github.com/datenstrom/community/discussions/760).
 
 ## Danksagung
 
