@@ -16,7 +16,7 @@ Erkläre wie man den Fehler reproduziert und gebe detaillierte Informationen an.
 
 ## Wie man mit uns arbeitet
 
-Wir konzentrieren uns auf Menschen. Nicht auf technische Details und viele Funktionen. Es gibt viele Möglichkeiten in der Datenstrom-Netzgemeinschaft aktiv zu werden. Stell dir vor was der Benutzer machen möchte und was dessen Leben einfacher machen würde. Schau dir Dateien, Verzeichnisse und die API für Entwickler an. [Siehe Tipps zum Zusammenarbeiten](https://github.com/datenstrom/community/discussions/760).
+Wir konzentrieren uns auf Menschen. Nicht auf technische Details und viele Funktionen. Es gibt viele Möglichkeiten in der Datenstrom-Netzgemeinschaft aktiv zu werden. Stell dir vor was der Benutzer machen möchte und was dessen Leben einfacher machen würde. Schau dir danach Dateien, Verzeichnisse und die API für Entwickler an. [Siehe Tipps zum Zusammenarbeiten](https://github.com/datenstrom/community/discussions/760).
 
 ## Danksagung
 
