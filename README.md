@@ -12,11 +12,11 @@ Write the question in the title, it's the first thing everyone will see. The Dat
 
 ## How to report a bug
 
-Explain how to reproduce the bug and provide detailed information. Activate the debug mode to investigate the cause of a problem. Add the log file to show what happens on your website. Check if the bug occurs in a brand new installation. Select an answer, when the bug has been fixed. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
+Explain how to reproduce the bug and provide detailed information. Activate the debug mode to investigate the cause of a problem. Add the log file of your website. Check if the bug occurs in a brand new installation. Select an answer, when the bug has been fixed. [Start a new discussion](https://github.com/datenstrom/community/discussions/categories/report-a-bug).
 
 ## How to work with us
 
-Discuss the latest product changes and new extensions. We focus on people. Not on technical details and lots of features. There are many ways to become active in the Datenstrom community. Imagine what the user wants to do and what would make their life easier. [See tips for working together](https://github.com/datenstrom/community/discussions/760).
+We focus on people. Not on technical details and lots of features. There are many ways to become active in the Datenstrom community. Imagine what the user wants to do and what would make their life easier. Have a look at files, folders and the API for developers. [See tips for working together](https://github.com/datenstrom/community/discussions/760).
 
 ## Acknowledgements
 
